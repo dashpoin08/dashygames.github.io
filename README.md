@@ -3,7 +3,7 @@
 
 ## Links
 - https://ppsholy.github.io/
--More coming soon
+- More coming soon
 ## Tools used to make site
 -Oddpvp's unblocked games site(https://github.com/OddPvP/unblockedgames)
 -Ozh's cookie clicker copy(https://github.com/ozh/cookieclicker)
