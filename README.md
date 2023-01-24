@@ -1,7 +1,7 @@
 ![ppsholy](https://user-images.githubusercontent.com/100136502/214304334-ea6e3d1e-29aa-4f42-85f9-583e76ce4296.png)
-## ppsholy is a unblocked games site made for the pps school district with tons of games. To test the site go to https://ppsholy.github.io/
+# ppsholy is a unblocked games site made for the pps school district with tons of games. To test the site go to https://ppsholy.github.io/
 
-# Links
+## Links
 - https://ppsholy.github.io/
 -More coming soon
 ## Tools used to make site
