@@ -4,9 +4,6 @@
 ## Links
 - https://ppsholy.github.io/
 - More coming soon
-## Tools used to make site
-- Oddpvp's unblocked games site(https://github.com/OddPvP/unblockedgames)
-- Ozh's cookie clicker copy(https://github.com/ozh/cookieclicker)
 ## How to deploy this site for free
 **Deploy to github pages:**
 1. Go to https://github.com/ppsholy/ppsholy.github.io/fork
