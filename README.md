@@ -3,7 +3,7 @@
 
 ## Links
 - https://ppsholy.github.io/ (Blocked on PPS net)
-- https://ppsholy.vercel.app/
+- https://ppsholy.vercel.app/ (Blocked on PPS net)
 - https://ppsholy.netlify.app/
 - More coming soon
 ## How to deploy this site for free
