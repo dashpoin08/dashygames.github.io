@@ -2,9 +2,9 @@
 # PPSHoly is a unblocked games site made for the PPS school district with tons of games. To test the site go to https://ppsholy.vercel.app/
 
 ## Links
-- https://ppsholy.github.io/ (Blocked on PPS net)
-- https://ppsholy.vercel.app/ (Blocked on PPS net)
-- https://ppsholy.netlify.app/
+- https://dashpoin08.github.io/ 
+- https://dashppoin08.vercel.app/ 
+- https://dashpoin08.netlify.app/
 - More coming soon
 ## How to deploy this site for free
 **Deploy to github pages:**
